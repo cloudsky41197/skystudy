@@ -39,3 +39,5 @@ print(s1)
 # s1.remove(10) <- 없는 값을 지우려고 하면 KeyError 발생
 s1.discard(10) # remove 와 같으나 없는 값을 지우려고 해도 에러가 나지 않는다.
 
+
+
